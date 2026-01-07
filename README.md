@@ -1,1 +1,1 @@
-https://app.visily.ai/projects/56fd1acf-13fa-49a4-a81b-ae7115d6fb08/boards/2422517/presenter?play-mode=All+screens
+https://app.visily.ai/projects/2dce134f-a3fd-438c-8604-ec3dee71a16b/boards/2402015
